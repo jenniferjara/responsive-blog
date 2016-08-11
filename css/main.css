@@ -132,8 +132,9 @@ footer {
 	}
 	.menu2 {
 		display: block;
-		padding-top: 10%;
+		padding: 7% 0%;
 		font-size: 3em;
+		float: right;
 	}
 	.video {
 		position: relative;
