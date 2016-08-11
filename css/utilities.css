@@ -1,0 +1,17 @@
+/*-------------reset------*/
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, siglas, dirección, grande, citar, código,
+del, DFN, em, img, ins, kbd, q, s, samp,
+pequeña, huelga, fuerte, sub, sup, tt, var,
+b, u, i, centro,
+dl, dt, dd, ol, ul, li,
+de campos, la forma, la etiqueta, la leyenda,
+mesa, subtítulo, tbody, tfoot, culata en T, tr, th, td,
+artículo, a un lado, lona, detalles, incrustar, 
+figura, figcaption, pie de página, encabezado, hgroup, 
+menú, de navegación, de salida, rubí, sección, resumen,
+tiempo, marca, audio, vídeo {
+    margin: 0;
+    padding: 0;
+}
+
